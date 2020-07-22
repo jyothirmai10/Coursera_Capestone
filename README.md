@@ -1,2 +1,2 @@
 # Coursera_Capestone
-This project is for basic 
+This project is for basic analysis of data.
